@@ -1,0 +1,76 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "McDonald's",
+      "products": [
+        {
+          "id": 1,
+          "name": "Big Mac",
+          "price": 5,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Big-Mac-1:product-header-desktop?wid=830&hei=456&dpr=off"
+        },
+        {
+          "id": 2,
+          "name": "McDouble",
+          "price": 10,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-McDouble-1:product-header-desktop?wid=829&hei=455&dpr=off"
+        },
+        {
+          "id": 3,
+          "name": "Quarter Pounder®* with Cheese Deluxe",
+          "price": 15,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-qpc-deluxe-burger:product-header-desktop?wid=829&hei=455&dpr=off"
+        },
+        {
+          "id": 4,
+          "name": "Hamburger",
+          "price": 4,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Hamburger:product-header-desktop?wid=829&hei=455&dpr=off"
+        },
+        {
+          "id": 5,
+          "name": "Spicy Deluxe Crispy Chicken Sandwich",
+          "price": 15,
+          "image": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-spicy-deluxe-crispy-chicken-sandwich:product-header-desktop?wid=829&hei=455&dpr=off"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "KFC",
+      "products": [
+        {
+          "id": 1,
+          "name": "CHEESEBURGER",
+          "price": 5,
+          "image": "https://www.kfc-ukraine.com/admin/files/4061.jpg"
+        },
+        {
+          "id": 2,
+          "name": "TOAST 2 CHEESE",
+          "price": 1,
+          "image": "https://www.kfc-ukraine.com/admin/files/3729.jpg"
+        },
+        {
+          "id": 3,
+          "name": "LONGER",
+          "price": 2,
+          "image": "https://www.kfc-ukraine.com/admin/files/3737.jpg"
+        },
+        {
+          "id": 4,
+          "name": "CHICKENBURGER",
+          "price": 3,
+          "image": "https://www.kfc-ukraine.com/admin/files/4064.jpg"
+        },
+        {
+          "id": 5,
+          "name": "BUCKET DUET SPICY",
+          "price": 10,
+          "image": "https://www.kfc-ukraine.com/admin/files/4092.png"
+        }
+      ]
+    }
+  ]
+}
