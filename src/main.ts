@@ -12,10 +12,10 @@ import { ValidationPipe } from "./pipes/validation.pipe";
     const app = await NestFactory.create(AppModule)
     app.enableCors();
     const config = new DocumentBuilder()
-      .setTitle('English Easy')
-      .setDescription('English Easy REST API documentation')
+      .setTitle('ElifTech test')
+      .setDescription('ElifTech test REST API documentation')
       .setVersion('1.0.0')
-      .addTag('English Easy')
+      .addTag('ElifTech test')
       .build();
     const document = SwaggerModule.createDocument(app, config);
     SwaggerModule.setup('/api/docs', app, document);
